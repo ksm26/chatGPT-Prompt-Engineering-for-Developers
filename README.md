@@ -27,5 +27,5 @@ Throughout the course, you will also learn two fundamental principles for crafti
 
 **Andrew Ng** is a renowned AI researcher, co-founder of Coursera, and the founder of DeepLearning.AI. With a wealth of knowledge and expertise in the field, Andrew has played a pivotal role in popularizing AI education.
 
-Note: This repository is part of the "ChatGPT Prompt Engineering for Developers" course. To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai/).
+Reference: "ChatGPT Prompt Engineering for Developers" course. To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai/).
 
